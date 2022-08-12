@@ -1,6 +1,6 @@
 ﻿<#
 .DESCRIPTION 
-Checks a list of remote computers to if the specified SMB version is enabled. The variable $SMBVersion can be altered if required (e.g. to "1" or "2"). If all or many computers return "Is Offline" check that you are running the script as an account that has local adminstrator access on the target computers.
+Checks a list of remote computers to see if the specified SMB version is enabled. The variable $SMBVersion can be altered if required (e.g. to "1" or "2"). If all or many computers return "Is Offline" check that you are running the script as an account that has local adminstrator access on the target computers.
 
 .NOTES
 Version: 1.0
